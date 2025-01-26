@@ -5,3 +5,4 @@ pycryptodome==3.17 # za enkripciju
 secret-sharing==0.2.7 # za shamir's secret sharing
 requests==2.32.3
 cryptograhy
+python-dotenv

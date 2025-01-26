@@ -1,7 +1,7 @@
 twilio==9.4.1
 qrcode==8.0 # za qr code
 pillow==11.0.0 # za qr code
-pycryptodome==3.17 # za enkripciju
+pycryptodome==3.19.1 # za enkripciju
 secret-sharing==0.2.7 # za shamir's secret sharing
 requests==2.32.3
 cryptograhy
